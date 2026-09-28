@@ -44,3 +44,6 @@ data/
 **/._.DS_Store
 
 .codewhale
+AGENTS.md
+CLAUDE.md
+resources/
